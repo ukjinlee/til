@@ -8,7 +8,7 @@
 myButton.layoutParams.height = 100
 ```
 
-* Convert pixels to dp in Kotlin
+* Convert dp to pixel in Kotlin
 
 ```kotlin
 val pixels = TypedValue.applyDimension(
@@ -16,3 +16,5 @@ val pixels = TypedValue.applyDimension(
 )
 output.layoutParams.height = pixels.toInt()
 ```
+
+[source](https://stackoverflow.com/a/6327095)
