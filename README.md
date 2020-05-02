@@ -6,19 +6,13 @@ concepts, bits of syntax, commands, or tips I've recently learned.
 
 _1 TILs and counting..._
 
----
-
-### Categories
+## Categories
 
 * [Android](#android)
 
----
-
-### Android
+## Android
 
 - [Set Dimensions in Code](android/set-dimensions-in-code.md)
-
----
 
 ## Other TIL Collections
 
