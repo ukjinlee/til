@@ -2,14 +2,11 @@
 
 * Each view has a **layoutParams** object.
 * Set height/width etc. as properties of layoutParams
+* Sets dimensions as absolute pixels
 
 ```kotlin
 myButton.layoutParams.height = 100
 ```
-
-* Sets dimensions as absolute pixels
-
----
 
 * Convert pixels to dp in Kotlin
 
