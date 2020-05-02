@@ -12,7 +12,7 @@ _1 TILs and counting..._
 
 ## Android
 
-- [Set Dimensions in Code](android/set-dimensions-in-code.md)
+* [Set Dimensions in Code](android/set-dimensions-in-code.md)
 
 ## Other TIL Collections
 
