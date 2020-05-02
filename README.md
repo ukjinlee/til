@@ -18,6 +18,8 @@ _1 TILs and counting..._
 
 - [Set Dimensions in Code](android/set-dimensions-in-code.md)
 
+---
+
 ## Other TIL Collections
 
 * [thoughtbot/til](https://github.com/thoughtbot/til)
