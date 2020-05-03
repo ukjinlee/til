@@ -4,7 +4,7 @@ I constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips I've recently learned.
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ## Categories
 
@@ -12,8 +12,9 @@ _2 TILs and counting..._
 
 ## Android
 
-* [Set Dimensions in Code](android/set-dimensions-in-code.md)
 * [Get a Color from hexadecimal Color String](android/get-a-color-from-hexadecimal-color-string.md)
+* [Set Dimensions in Code](android/set-dimensions-in-code.md)
+* [Lazy Initialization](android/lazy-initialization.md)
 
 ## Other TIL Collections
 
