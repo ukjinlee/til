@@ -4,7 +4,7 @@ I constantly learn new things. This is a repo to share those learnings.
 TILs are short Markdown documents (a few sentences + example code) explaining
 concepts, bits of syntax, commands, or tips I've recently learned.
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ## Categories
 
@@ -14,6 +14,7 @@ _5 TILs and counting..._
 
 * [Get a Color from hexadecimal Color String](android/get-a-color-from-hexadecimal-color-string.md)
 * [Get Text from File](android/get-text-from-file.md)
+* [Parse JSON](android/parse-json.md)
 * [Set Dimensions in Code](android/set-dimensions-in-code.md)
 * [Swipe to Delete](android/swipe-to-delete.md)
 * [Lazy Initialization](android/lazy-initialization.md)
