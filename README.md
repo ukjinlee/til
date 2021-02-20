@@ -9,6 +9,7 @@ _7 TILs and counting..._
 ## Categories
 
 * [Android](#android)
+* [Kotlin](#kotlin)
 
 ## Android
 
@@ -19,6 +20,10 @@ _7 TILs and counting..._
 * [Swipe to Delete](android/swipe-to-delete.md)
 * [Lazy Initialization](android/lazy-initialization.md)
 * [Make a Phone Call](android/make-a-phone-call.md)
+
+## Kotlin
+
+* [Repeat](kotlin/repeat.md)
 
 ## Other TIL Collections
 
